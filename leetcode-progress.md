@@ -45,10 +45,10 @@
 
 ### 第 1 周：Java 基础与数组
 
-- [ ] 两数之和（Two Sum）— 哈希表 / 暴力枚举
-- [ ] 买卖股票的最佳时机（Best Time to Buy and Sell Stock）— 一次遍历
-- [ ] 最大子数组和（Maximum Subarray）— 贪心 / 动态规划入门
-- [ ] 合并区间（Merge Intervals）— 排序与区间
+- [x] 两数之和（Two Sum）— 哈希表 / 暴力枚举
+- [x] 买卖股票的最佳时机（Best Time to Buy and Sell Stock）— 一次遍历
+- [x] 最大子数组和（Maximum Subarray）— 贪心 / 动态规划入门
+- [x] 合并区间（Merge Intervals）— 排序与区间
 - [ ] 除自身以外数组的乘积（Product of Array Except Self）— 前缀积
 - [ ] 复习：不看答案重做本周做过的题
 
