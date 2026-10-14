@@ -54,9 +54,9 @@
 
 ### 第 2 周：哈希表与双指针
 
-- [ ] 字母异位词分组（Group Anagrams）— 哈希表
-- [ ] 最长连续序列（Longest Consecutive Sequence）— 哈希集合
-- [ ] 移动零（Move Zeroes）— 双指针
+- [x] 字母异位词分组（Group Anagrams）— 哈希表
+- [x] 最长连续序列（Longest Consecutive Sequence）— 哈希集合
+- [x] 移动零（Move Zeroes）— 双指针
 - [ ] 盛最多水的容器（Container With Most Water）— 双指针
 - [ ] 三数之和（3Sum）— 排序与双指针
 - [ ] 复习：解释何时使用哈希表、何时使用双指针
