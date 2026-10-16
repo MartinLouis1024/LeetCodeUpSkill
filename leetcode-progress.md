@@ -57,15 +57,15 @@
 - [x] 字母异位词分组（Group Anagrams）— 哈希表
 - [x] 最长连续序列（Longest Consecutive Sequence）— 哈希集合
 - [x] 移动零（Move Zeroes）— 双指针
-- [ ] 盛最多水的容器（Container With Most Water）— 双指针
-- [ ] 三数之和（3Sum）— 排序与双指针
+- [x] 盛最多水的容器（Container With Most Water）— 双指针
+- [x] 三数之和（3Sum）— 排序与双指针
 - [ ] 复习：解释何时使用哈希表、何时使用双指针
 
 ### 第 3 周：滑动窗口与数组
 
-- [ ] 无重复字符的最长子串（Longest Substring Without Repeating Characters）
-- [ ] 找到字符串中所有字母异位词（Find All Anagrams in a String）
-- [ ] 和为 K 的子数组（Subarray Sum Equals K）
+- [x] 无重复字符的最长子串（Longest Substring Without Repeating Characters）
+- [x] 找到字符串中所有字母异位词（Find All Anagrams in a String）
+- [x] 和为 K 的子数组（Subarray Sum Equals K）
 - [ ] 矩阵置零（Set Matrix Zeroes）
 - [ ] 螺旋矩阵（Spiral Matrix）
 - [ ] 复习：区分普通双指针与滑动窗口
