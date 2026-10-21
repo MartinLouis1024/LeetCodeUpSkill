@@ -72,10 +72,10 @@
 
 ### 第 4 周：链表
 
-- [ ] 相交链表（Intersection of Two Linked Lists）
-- [ ] 反转链表（Reverse Linked List）
-- [ ] 回文链表（Palindrome Linked List）
-- [ ] 环形链表（Linked List Cycle）
+- [x] 相交链表（Intersection of Two Linked Lists）
+- [x] 反转链表（Reverse Linked List）
+- [x] 回文链表（Palindrome Linked List）
+- [x] 环形链表（Linked List Cycle）
 - [ ] 合并两个有序链表（Merge Two Sorted Lists）
 - [ ] 删除链表的倒数第 N 个结点（Remove Nth Node From End of List）
 - [ ] 复习：画图解释指针变化
