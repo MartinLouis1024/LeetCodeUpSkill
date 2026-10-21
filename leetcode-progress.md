@@ -66,8 +66,8 @@
 - [x] 无重复字符的最长子串（Longest Substring Without Repeating Characters）
 - [x] 找到字符串中所有字母异位词（Find All Anagrams in a String）
 - [x] 和为 K 的子数组（Subarray Sum Equals K）
-- [ ] 矩阵置零（Set Matrix Zeroes）
-- [ ] 螺旋矩阵（Spiral Matrix）
+- [x] 矩阵置零（Set Matrix Zeroes）
+- [x] 螺旋矩阵（Spiral Matrix）
 - [ ] 复习：区分普通双指针与滑动窗口
 
 ### 第 4 周：链表
