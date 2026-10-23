@@ -76,14 +76,14 @@
 - [x] 反转链表（Reverse Linked List）
 - [x] 回文链表（Palindrome Linked List）
 - [x] 环形链表（Linked List Cycle）
-- [ ] 合并两个有序链表（Merge Two Sorted Lists）
-- [ ] 删除链表的倒数第 N 个结点（Remove Nth Node From End of List）
+- [x] 合并两个有序链表（Merge Two Sorted Lists）
+- [x] 删除链表的倒数第 N 个结点（Remove Nth Node From End of List）
 - [ ] 复习：画图解释指针变化
 
 ### 第 5 周：栈、队列与二分查找
 
-- [ ] 有效的括号（Valid Parentheses）
-- [ ] 最小栈（Min Stack）
+- [x] 有效的括号（Valid Parentheses）
+- [x] 最小栈（Min Stack）
 - [ ] 每日温度（Daily Temperatures）
 - [ ] 二分查找（Binary Search）
 - [ ] 搜索旋转排序数组（Search in Rotated Sorted Array）
